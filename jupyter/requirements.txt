@@ -1,0 +1,4 @@
+pandas>=1
+matplotlib>=1
+numpy>=1
+scipy>=1
